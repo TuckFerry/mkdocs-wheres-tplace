@@ -51,10 +51,6 @@ plugins:
 copyright: 充满回忆
 nav:
   - 首页: index.md
-  - Python:
-    - python/index.md
-  - 电子信息工程:
-    - eie/index.md
   - 音游:
     - rhythmgame/index.md
   - 关于:

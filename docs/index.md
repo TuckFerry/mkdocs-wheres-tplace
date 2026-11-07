@@ -3,7 +3,7 @@ hide:
     - navigation
 ---
 
-# 每一次相遇，都是奇迹
+# 每一次相遇，都是奇迹（网站已迁移，请访问[blog.tuckferry.cn](https://blog.tuckferry.cn)）
 
 本网站用于记录个人生活与学习历程，既包括已掌握和即将探索的知识，也包含日常生活中的点滴。
 
